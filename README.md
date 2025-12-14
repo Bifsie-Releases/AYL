@@ -5,7 +5,7 @@
 Version history for Are You LIVE? (AYL)
 
 
-1.1.0 Beta (closed) [ Modernize all the things update ]:
+1.1.0 Beta (closed) [ Modernize all the things update ]
 
   Additions:
 
