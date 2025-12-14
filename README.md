@@ -1,4 +1,4 @@
---- WORKING COPY ---
+### NOT YET RELEASED - UPCOMING VERSION ###
 
 [Version 1.1.0 Beta]
 
