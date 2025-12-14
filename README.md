@@ -1,3 +1,5 @@
+--- WORKING COPY ---
+
 [Version 1.1.0 Beta]
 
 Version history for Are You LIVE? (AYL)
